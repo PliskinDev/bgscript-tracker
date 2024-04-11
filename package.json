@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "luxon": "^3.4.4",
+    "node-fetch": "^3.3.2"
+  }
+}
